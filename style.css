@@ -3,5 +3,7 @@ h1{
     color: teal;
     text-align: center;
     border:solid;
-
+}
+image{
+    image-resolution: 500;
 }
